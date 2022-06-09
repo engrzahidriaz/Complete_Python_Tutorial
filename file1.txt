@@ -1,0 +1,4 @@
+zahid,100
+Hadi,200
+shahid,300
+amjad,150

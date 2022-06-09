@@ -1,0 +1,4 @@
+zahid's salary is 100
+Hadi's salary is 200
+shahid's salary is 300
+amjad's salary is 150
